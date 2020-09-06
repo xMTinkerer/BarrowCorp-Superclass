@@ -18,6 +18,7 @@ Follow along as we set up an inbound phone number for hapless residents to call 
 
 First, we'll need to signup for a free trial of xMatters. Head over to [xMatters.com](https://xmatters.com) and click the **Try It Free** button. Enter your name and email address. Choose a company name that makes sense to you, select the region and click **Get Started**. A few moments later, an email will arrive confirming your account. The slave squirrels will run really fast and get your account created, and when finished you'll be logged in with a welcome message. Feel free to run through the welcome wizard, or for now, choose to skip. But don't worry, you can come back to it later. 
 
+xMatters free gives you 10 users to notify across email and mobile push notifications. Upgrade to get SMS, voice and more. 
 
 ## Onboard the cats
 Before we can start notifying these fiesty felines, we need to get them created in xMatters. 
