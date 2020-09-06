@@ -63,7 +63,7 @@ With the 5 minute escalation and rotations in place, our feline security guards 
 
 This section will deal with setting up the integration in xMatters to receive the REST call from Twilio to generate an event for notifying the the On Site Security Group. 
 
-First, download the <div style="color:red">TWILIO INTEGRATIONS zip file</div> locally. Then navigate to the **Workflows** page in xMatters using the left menu. 
+First, download the [TwilioIntegrations.zip](TwilioIntegrations.zip) file locally and navigate to the **Workflows** page in xMatters using the left menu. 
 
 <kbd><img src="media/README/20200905154437.png" width="550"></kbd>
 
