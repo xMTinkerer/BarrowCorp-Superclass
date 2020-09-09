@@ -8,7 +8,7 @@ Follow along as we set up an inbound phone number for hapless residents to call 
 
 # Pre-Reqs
 
-1. Basic knowledge of javascript
+1. Basic knowledge of JavaScript
 2. Twilio account and credits
 
 
